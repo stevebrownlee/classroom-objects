@@ -14,7 +14,12 @@ const objectsIntro = {
 }
 ```
 
-A property on an object is comprised of a key and a value. You can think of them just like declaring a variable, but the syntax is slightly different, and the variable is now scoped 
+A property on an object is comprised of a key and a value. You can think of them just like declaring a variable, but the syntax is slightly different, and the variable is now grouped together with other ones in the context of the object.
+
+```js
+// Variable declaration
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTAxMzEyNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODg1MDQ0MjU0LDczMDk5ODExNl19
 -->
