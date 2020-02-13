@@ -27,9 +27,11 @@ const city = "Nashville"
 const michael = {
 	firstName: "Michael",
 	lastName: "McLenton",
-	
+	age: 25,
+	city: "Nashville"
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDExMjEzNiw4ODUwNDQyNTQsNzMwOT
+eyJoaXN0b3J5IjpbLTY4NTYwMDAwOCw4ODUwNDQyNTQsNzMwOT
 k4MTE2XX0=
 -->
