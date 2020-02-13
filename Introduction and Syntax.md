@@ -14,7 +14,7 @@ const objectsIntro = {
 }
 ```
 
-A property on an object is comprised of a key and a value. You can think of them just like declaring a variable, but the syntax is slightly different, and the variable is now grouped together with other ones in the context of the object.
+A property on an object is comprised of a key and a value. You can think of them just like declaring a variable, but the syntax is slightly different, and the variable is now grouped together with other ones in the context of the object. 
 
 ```js
 // Regular variable declarations
@@ -31,7 +31,9 @@ const michael = {
 	city: "Nashville"
 }
 ```
+
+You've replaced the `=` sign with a color `:` for assigning a value to a variable. When a variable is defined this way, in the scope of an object, it's called a pr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTYwMDAwOCw4ODUwNDQyNTQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI1Nzc0NTc1OSwtNjg1NjAwMDA4LDg4NT
+A0NDI1NCw3MzA5OTgxMTZdfQ==
 -->
