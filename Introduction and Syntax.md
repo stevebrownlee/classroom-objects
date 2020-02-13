@@ -1,7 +1,6 @@
+## Representing Life as Objects
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Software developers are paid to represent real-world things and processes in code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg4NTQ5NjAyOSw3MzA5OTgxMTZdfQ==
 -->
