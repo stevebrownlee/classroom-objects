@@ -46,12 +46,12 @@ const book = {
 }
 ```
 
-You can put as many properties on an object as you like
+You can put as many properties on an object as you need to appropriately describe that object, and what you need to display to people who are viewing the information.
 
 ## Exercise: Your First Object
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTczNDA1NzEsLTY4NTYwMDAwOCw4OD
+eyJoaXN0b3J5IjpbLTE4MjUyODAzMzksLTY4NTYwMDAwOCw4OD
 UwNDQyNTQsNzMwOTk4MTE2XX0=
 -->
