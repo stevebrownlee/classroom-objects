@@ -10,9 +10,11 @@ const objectsIntro = {
 	classroom: "Objects",
 	chapter: "Introduction and Syntax",
 	audience: "Beginners",
-	timeToComplete: 
+	minutesToComplete: 4.25
 }
 ```
+
+A property on an object is comprised of a key and a value. You can think of them just like declaring a variable, but the syntax is slightly different, and the variable is now scoped 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTk0NDQxNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAxMTAxMzEyNiw3MzA5OTgxMTZdfQ==
 -->
