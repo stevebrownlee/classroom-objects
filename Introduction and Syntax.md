@@ -39,14 +39,19 @@ Here is an example of representing a book as an object in JavaScript.
 ```js
 const book = {
 	title: "Where the Wild Things Are",
-	
+	isbn: "0-06-025492-0",
+	publisher: "Harper & Row",
+	publicationDate: "1963",
+	pages: 40
 }
 ```
+
+You can put as many properties on an object as you like
 
 ## Exercise: Your First Object
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYzNTk3NiwtNjg1NjAwMDA4LDg4NT
-A0NDI1NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTczNDA1NzEsLTY4NTYwMDAwOCw4OD
+UwNDQyNTQsNzMwOTk4MTE2XX0=
 -->
