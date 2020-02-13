@@ -32,8 +32,8 @@ const michael = {
 }
 ```
 
-You've replaced the `=` sign with a color `:` for assigning a value to a variable. When a variable is defined this way, in the scope of an object, it's called a property. The variable name is now now called a key. The value is still called value.
+You've replaced the `=` sign with a colon `:` for assigning a value to a variable. When a variable is defined this way, in the scope of an object, it's called a property. The variable name is now now called a key. The value is still called value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY4MDg2ODcsLTY4NTYwMDAwOCw4OD
+eyJoaXN0b3J5IjpbLTExNTg4NjA0MDMsLTY4NTYwMDAwOCw4OD
 UwNDQyNTQsNzMwOTk4MTE2XX0=
 -->
