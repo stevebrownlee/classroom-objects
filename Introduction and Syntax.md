@@ -50,9 +50,16 @@ You can put as many properties on an object as you need to appropriately describ
 
 ## Exercise: Your First Object
 
-In the code editor, you will see some starter code. Inside the curly braces 
+In the code editor, you will see some starter code. You only need to focus on the following code.
 
+```js
+	/* Create your student object here */
+    const student = 
+```
+
+After the `student = `, your job is to create an object that represents a new student
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE3OTMzNTUsLTE4MjUyODAzMzksLT
-Y4NTYwMDAwOCw4ODUwNDQyNTQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTYxNjI0MzI4MCwtMjExMTc5MzM1NSwtMT
+gyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0NDI1NCw3MzA5OTgx
+MTZdfQ==
 -->
