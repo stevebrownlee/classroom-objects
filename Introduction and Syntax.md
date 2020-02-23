@@ -57,9 +57,14 @@ In the code editor, you will see some starter code. You only need to focus on th
     const student = 
 ```
 
-After the `student = `, your job is to create an object that represents a new student
+After the `student = `, your job is to create an object that represents a new student who is learning how to write software. The student should have the following properties.
+
+* A name property with a value of "Jeremy Landy"
+* A location property with a value of "Phoenix, AR"
+* A gender property with value of "male"
+* An age property with a value of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjI0MzI4MCwtMjExMTc5MzM1NSwtMT
-gyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0NDI1NCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbODA5OTg3NzM3LC0yMTExNzkzMzU1LC0xOD
+I1MjgwMzM5LC02ODU2MDAwMDgsODg1MDQ0MjU0LDczMDk5ODEx
+Nl19
 -->
