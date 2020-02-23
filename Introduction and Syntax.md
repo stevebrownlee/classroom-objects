@@ -53,8 +53,8 @@ You can put as many properties on an object as you need to appropriately describ
 In the code editor, you will see some starter code. You only need to focus on the following code.
 
 ```js
-	/* Create your student object here */
-    const student = 
+/* Create your student object here */
+const student = 
 ```
 
 After the `student = `, your job is to create an object that represents a new student who is learning how to write software. The student should have the following properties.
@@ -63,9 +63,9 @@ After the `student = `, your job is to create an object that represents a new st
 * A location property with a value of "Phoenix, AR"
 * A gender property with value of "male"
 * An age property with a value of 31
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTYxMjQwMywtMjExMTc5MzM1NSwtMT
-gyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0NDI1NCw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg4NTQxMjcsMTE0MTYxMjQwMywtMj
+ExMTc5MzM1NSwtMTgyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0
+NDI1NCw3MzA5OTgxMTZdfQ==
 -->
