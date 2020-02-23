@@ -62,9 +62,10 @@ After the `student = `, your job is to create an object that represents a new st
 * A name property with a value of "Jeremy Landy"
 * A location property with a value of "Phoenix, AR"
 * A gender property with value of "male"
-* An age property with a value of 
+* An age property with a value of 31
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5OTg3NzM3LC0yMTExNzkzMzU1LC0xOD
-I1MjgwMzM5LC02ODU2MDAwMDgsODg1MDQ0MjU0LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMTE0MTYxMjQwMywtMjExMTc5MzM1NSwtMT
+gyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0NDI1NCw3MzA5OTgx
+MTZdfQ==
 -->
