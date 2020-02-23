@@ -50,8 +50,9 @@ You can put as many properties on an object as you need to appropriately describ
 
 ## Exercise: Your First Object
 
+In the code editor, you will see some starter code. Inside the curly braces 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUyODAzMzksLTY4NTYwMDAwOCw4OD
-UwNDQyNTQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxMTE3OTMzNTUsLTE4MjUyODAzMzksLT
+Y4NTYwMDAwOCw4ODUwNDQyNTQsNzMwOTk4MTE2XX0=
 -->
