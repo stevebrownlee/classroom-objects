@@ -64,8 +64,9 @@ After the `student = `, your job is to create an object that represents a new st
 * A gender property with value of "male"
 * An age property with a value of 31
 
+So you need the curly braces, and the properties. Leave the rest of the code unchanged.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg4NTQxMjcsMTE0MTYxMjQwMywtMj
-ExMTc5MzM1NSwtMTgyNTI4MDMzOSwtNjg1NjAwMDA4LDg4NTA0
-NDI1NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI2OTAzNTcsLTEzMDg4NTQxMjcsMT
+E0MTYxMjQwMywtMjExMTc5MzM1NSwtMTgyNTI4MDMzOSwtNjg1
+NjAwMDA4LDg4NTA0NDI1NCw3MzA5OTgxMTZdfQ==
 -->
