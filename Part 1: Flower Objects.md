@@ -4,8 +4,16 @@ Since software developers utilize objects to represent real-world things that ne
 
 1. An object representing each firefighter
 2. An object representing each fire station
-3. AN object representing the fire 
+3. An object representing the fire chief
+
+```js
+const fireChief = {
+	firstName: "Samantha",
+	lastName: "Robinson",
+	yearsOfService: 10,
+	
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYwMTk4MDIsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg2NzUxMzkwNCwtMjA4ODc0NjYxMiw3Mz
+A5OTgxMTZdfQ==
 -->
