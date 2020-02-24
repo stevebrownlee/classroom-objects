@@ -1,4 +1,4 @@
-## Objects Representing Things
+## Multiple Objects
 
 Since software developers utilize objects to represent real-world things that need to be automated with software, it is critical to know that the properties of the "things" are. Consider an example where a fire chief needs to assign some firefighters to fire stations. What would need to be an object in this scenario.
 
@@ -106,6 +106,6 @@ const createDaisy = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjAzODUwOTAsLTcwNDc1NjE3MSwtMj
-A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjY2OTAxODQ1LC0xOTYwMzg1MDkwLC03MD
+Q3NTYxNzEsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
