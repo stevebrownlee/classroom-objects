@@ -55,10 +55,21 @@ Now, two objects for the fire stations.
 ```js
 const eastStation = {
 	address: "1002 Main Street",
-	squareFootage: 6720,
+	squareFootage: 4720,
+	kitchen: true,
+	beds: true,
+	showers: true
+}
+
+const northStation = {
+	address: "9 Lighthouse Road",
+	squareFootage: 3233,
+	kitchen: false,
+	beds: false,
+	showers: true
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQxNDczNDYsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzcxNjUzMzQ5LC0yMDg4NzQ2NjEyLDczMD
+k5ODExNl19
 -->
