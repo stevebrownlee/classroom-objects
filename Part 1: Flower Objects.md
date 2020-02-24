@@ -12,7 +12,7 @@ First, the fire chief.
 const fireChief = {
 	firstName: "Samantha",
 	lastName: "Robinson",
-	yearsOfService: 10,
+	yearsOfService: 13,
 	emtCertification: true,
 	paramediaCertification: true,
 	firefighterCertification: true
@@ -69,7 +69,9 @@ const northStation = {
 	showers: true
 }
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjUzMzQ5LC0yMDg4NzQ2NjEyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2ODg0NzIwMzQsLTIwODg3NDY2MTIsNz
+MwOTk4MTE2XX0=
 -->
