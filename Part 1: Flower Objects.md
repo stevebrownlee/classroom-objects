@@ -70,8 +70,12 @@ const northStation = {
 }
 ```
 
+## Different Properties
+
+Some of the object represent the people, and some objects represent buildings. Therefore, the properties vary. Each objec
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg0NzIwMzQsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA1NDU1NjQyNywtMjA4ODc0NjYxMiw3Mz
+A5OTgxMTZdfQ==
 -->
