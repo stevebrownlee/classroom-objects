@@ -79,7 +79,26 @@ Some of the object represent the people, and some objects represent buildings. T
 
 
 
+
+
+
+
+
+
+
+
+```js
+const createTulip = () => {
+    //
+        Create your tulip object here.
+    */
+    const tulip =
+    
+    
+    return tulip
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjk5OTQ3NzMsLTcwNDc1NjE3MSwtMj
+A4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
