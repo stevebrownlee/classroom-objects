@@ -6,6 +6,8 @@ Since software developers utilize objects to represent real-world things that ne
 2. An object representing each fire station
 3. An object representing the fire chief
 
+First, the fire chief.
+
 ```js
 const fireChief = {
 	firstName: "Samantha",
@@ -14,8 +16,40 @@ const fireChief = {
 	emtCertification: true,
 	paramediaCertification: true,
 	firefighterCertification: true
+}
+```
+
+Now some firefighters.
+
+```js
+const matthew = {
+	firstName: "Samantha",
+	lastName: "Robinson",
+	yearsOfService: 10,
+	emtCertification: true,
+	paramediaCertification: true,
+	firefighterCertification: true
+}
+
+const jamal = {
+	firstName: "Samantha",
+	lastName: "Robinson",
+	yearsOfService: 5,
+	emtCertification: true,
+	paramediaCertification: false,
+	firefighterCertification: true
+}
+
+const erin = {
+	firstName: "Erin",
+	lastName: "McNamara",
+	yearsOfService: 3,
+	emtCertification: false,
+	paramediaCertification: true,
+	firefighterCertification: true
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDcyMDg3OSwtMjA4ODc0NjYxMiw3Mz
+eyJoaXN0b3J5IjpbMTcxMjc4ODYyNiwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
 -->
