@@ -72,10 +72,12 @@ const northStation = {
 
 ## Different Properties
 
-Some of the object represent the people, and some objects represent buildings. Therefore, the properties vary. Each JavaScript object should have only the properties that describe the real-world object it is representing. The value of 
+Some of the object represent the people, and some objects represent buildings. Therefore, the properties vary. Each JavaScript object should have only the properties that describe the real-world object it is representing. The value of each property can be different, dependeing on the current state of the real-world object. Just because two objects represent the same kind of thing does not mean the property values will always match.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzAzMTg4NCwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODc1OTQ4ODU0LC0yMDg4NzQ2NjEyLDczMD
+k5ODExNl19
 -->
