@@ -23,17 +23,17 @@ Now some firefighters.
 
 ```js
 const matthew = {
-	firstName: "Samantha",
-	lastName: "Robinson",
-	yearsOfService: 10,
-	emtCertification: true,
+	firstName: "Matthew",
+	lastName: "Ingersoll",
+	yearsOfService: 4,
+	emtCertification: false,
 	paramediaCertification: true,
 	firefighterCertification: true
 }
 
 const jamal = {
-	firstName: "Samantha",
-	lastName: "Robinson",
+	firstName: "Jamal",
+	lastName: "Ross",
 	yearsOfService: 5,
 	emtCertification: true,
 	paramediaCertification: false,
@@ -49,7 +49,16 @@ const erin = {
 	firefighterCertification: true
 }
 ```
+
+Now, two objects for the fire stations.
+
+```js
+const eastStation = {
+	address: "1002 Main Street",
+	squareFootage: 6720,
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjc4ODYyNiwtMjA4ODc0NjYxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQxNDczNDYsLTIwODg3NDY2MTIsNz
+MwOTk4MTE2XX0=
 -->
