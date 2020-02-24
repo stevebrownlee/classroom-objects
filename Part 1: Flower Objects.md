@@ -11,9 +11,11 @@ const fireChief = {
 	firstName: "Samantha",
 	lastName: "Robinson",
 	yearsOfService: 10,
-	
+	emtCertification: true,
+	paramediaCertification: true,
+	firefighterCertification: true
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzUxMzkwNCwtMjA4ODc0NjYxMiw3Mz
+eyJoaXN0b3J5IjpbMTY3MDcyMDg3OSwtMjA4ODc0NjYxMiw3Mz
 A5OTgxMTZdfQ==
 -->
