@@ -78,7 +78,13 @@ Some of the objects represent the people, and some objects represent buildings. 
 
 In this exercise, you are going to create two objects that represent flowers - a Tulip and a Rose. The objects will be largely the same, but since roses have thorns and tulips do not, there will be a difference between the properties on each one. 
 
+In the starter code in the editor, create two objects where you see the comments.
 
+Both flower objects should have the following properties.
+
+1. Color, which will be a string
+2. Stem length, which will be a number
+3. 
 
 
 
@@ -110,7 +116,7 @@ const createRose = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ4NDA3NDAsMjY2OTAxODQ1LC0xOT
-YwMzg1MDkwLC03MDQ3NTYxNzEsLTIwODg3NDY2MTIsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbNTk3OTU4ODE1LDI2NjkwMTg0NSwtMTk2MD
+M4NTA5MCwtNzA0NzU2MTcxLC0yMDg4NzQ2NjEyLDczMDk5ODEx
+Nl19
 -->
