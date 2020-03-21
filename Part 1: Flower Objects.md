@@ -85,16 +85,9 @@ Both flower objects should have the following keys.
 * `color`, which will be a string
 * `stemLength`, which will be a number
 * `growingSeason`, which will be a string like "Summer" or "Spring"
+* `thorny` will be be a boolean value of true or false .
 
 You can decide on the values for each of the properties.
-
-On the rose object, provide the following additional property.
-
-* `thorny` which will have the boolean value of `true`
-
-
-
-
 
 
 ```js
@@ -120,7 +113,7 @@ const createRose = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTYzMzc2NCwyNjY5MDE4NDUsLTE5Nj
-AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbMjEzMTg3NjE3OCwtODUxNjMzNzY0LDI2Nj
+kwMTg0NSwtMTk2MDM4NTA5MCwtNzA0NzU2MTcxLC0yMDg4NzQ2
+NjEyLDczMDk5ODExNl19
 -->
