@@ -82,13 +82,15 @@ In the starter code in the editor, create two objects where you see the comments
 
 Both flower objects should have the following keys.
 
-1. `color`, which will be a string
-2. `stemLength`, which will be a number
-3. `growingSeason`, which will be a string like "Summer" or "Spring"
+* `color`, which will be a string
+* `stemLength`, which will be a number
+* `growingSeason`, which will be a string like "Summer" or "Spring"
 
 You can decide on the values for each of the properties.
 
-On the rose object, provide the addition
+On the rose object, provide the following additional property.
+
+* `thorny` which will have the boolean value of `true`
 
 
 
@@ -118,7 +120,7 @@ const createRose = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjM0NDE5MiwyNjY5MDE4NDUsLTE5Nj
-AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbODMzMDY3NywyNjY5MDE4NDUsLTE5NjAzOD
+UwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZd
+fQ==
 -->
