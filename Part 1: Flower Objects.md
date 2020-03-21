@@ -115,12 +115,12 @@ const createRose = () => {
     }
     
     
-    return daisy
+    return rose
 }
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMDY3NywyNjY5MDE4NDUsLTE5NjAzOD
-UwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTg1MTYzMzc2NCwyNjY5MDE4NDUsLTE5Nj
+AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
