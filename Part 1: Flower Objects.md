@@ -72,11 +72,11 @@ const northStation = {
 
 ## Different Properties
 
-Some of the object represent the people, and some objects represent buildings. Therefore, the properties vary. Each JavaScript object should have only the properties that describe the real-world object it is representing. The value of each property can be different, dependeing on the current state of the real-world object. Just because two objects represent the same kind of thing does not mean the property values will always match.
+Some of the objects represent the people, and some objects represent buildings. Therefore, the properties vary. Each JavaScript object should have only the properties that describe the real-world object it is representing. The value of each property can be different, depending on the current state of the real-world object. Just because two objects represent the same kind of thing does not mean the property values will always match.
 
 ## Exercise: Flower Shop
 
-
+IN this 
 
 
 
@@ -89,7 +89,7 @@ Some of the object represent the people, and some objects represent buildings. T
 
 ```js
 const createTulip = () => {
-    // Create your tulip object here.
+    // Complete your tulip object here.
     const tulip = {
 
 	}
@@ -98,9 +98,10 @@ const createTulip = () => {
     return tulip
 }
 
-const createDaisy = () => {
-    // Create your daisy object here.
-    const daisy = {
+const createRose = () => {
+    // Complete your rose object here.
+    const rose = {
+    
     }
     
     
@@ -109,7 +110,7 @@ const createDaisy = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NjQ2ODc1LDI2NjkwMTg0NSwtMTk2MD
-M4NTA5MCwtNzA0NzU2MTcxLC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTk4ODczNjA3OSwyNjY5MDE4NDUsLTE5Nj
+AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
