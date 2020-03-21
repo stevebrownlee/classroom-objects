@@ -76,7 +76,7 @@ Some of the objects represent the people, and some objects represent buildings. 
 
 ## Exercise: Flower Shop
 
-IN this 
+In this exercise, you are going to create two objects that represent flowers - a Tulip and a Rose. The objects will be largely the same, but since roses have thorns and tulips do not, there will be a difference between the properties on each one. 
 
 
 
@@ -110,7 +110,7 @@ const createRose = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODczNjA3OSwyNjY5MDE4NDUsLTE5Nj
-AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzQ4NDA3NDAsMjY2OTAxODQ1LC0xOT
+YwMzg1MDkwLC03MDQ3NTYxNzEsLTIwODg3NDY2MTIsNzMwOTk4
+MTE2XX0=
 -->
