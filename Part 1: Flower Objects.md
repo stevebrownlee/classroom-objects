@@ -80,13 +80,15 @@ In this exercise, you are going to create two objects that represent flowers - a
 
 In the starter code in the editor, create two objects where you see the comments.
 
-Both flower objects should have the following properties.
+Both flower objects should have the following keys.
 
-1. Color, which will be a string
-2. Stem length, which will be a number
-3. 
+1. `color`, which will be a string
+2. `stemLength`, which will be a number
+3. `growingSeason`, which will be a string like "Summer" or "Spring"
 
+You can decide on the values for each of the properties.
 
+On the rose object, provide the addition
 
 
 
@@ -116,7 +118,7 @@ const createRose = () => {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3OTU4ODE1LDI2NjkwMTg0NSwtMTk2MD
-M4NTA5MCwtNzA0NzU2MTcxLC0yMDg4NzQ2NjEyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMTc4MjM0NDE5MiwyNjY5MDE4NDUsLTE5Nj
+AzODUwOTAsLTcwNDc1NjE3MSwtMjA4ODc0NjYxMiw3MzA5OTgx
+MTZdfQ==
 -->
