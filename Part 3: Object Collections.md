@@ -81,7 +81,10 @@ Teammate: Mary Thomas
 */
 ```
 
+## Exercise: Doctor's Office Schedule
+
+The office manager of a doctor's office wants to provide a list each day that shows the name of each patient, and the time of their a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTU5OTA0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExNjQ1MzA2NzEsNzMwOTk4MTE2XX0=
 -->
