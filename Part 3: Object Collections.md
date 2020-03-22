@@ -83,8 +83,20 @@ Teammate: Mary Thomas
 
 ## Exercise: Doctor's Office Schedule
 
-The office manager of a doctor's office wants to provide a list each day that shows the name of each patient, and the time of their a
+The office manager of a doctor's office wants to provide a list each day that shows the name of each patient, and the time of their appointment. An array of objects is provided with some same patients represented an objects. Write a `for..of` loop that iterates the objects in the array, and then use dot notation to append the patient's full name, and the time of their appointment to the string value of the `schedule` variable.
+
+#### Example output
+
+Patient Michael Youncy has an appointment at 9:30
+Patient Michael Youncy has an appointment at 10:15
+Patient Michael Youncy has an appointment at 9:30
+Patient Michael Youncy has an appointment at 9:30
+
+
+```js
+const makechedule
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ1MzA2NzEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTMyNzQ5NzEwOCw3MzA5OTgxMTZdfQ==
 -->
