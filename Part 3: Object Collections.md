@@ -32,10 +32,10 @@ Teammate: Mary
 
 In this exercise, you will be working with an array of objects. 
 
-Using the same kind of logic that was in the example above, you can replace the string values in the array with objects that represent each teammate.
+Using the same kind of logic that was in the example above, you can replace the string values in the array with objects that represent each teammate. It's still a collection of your teammates, but instead of simple string representations of each person, you now have object representations.
 
 ```js
-// Array of strings
+// Array of objects
 const names = [
 	{
 		firstName: "Jameka",
@@ -48,9 +48,16 @@ const names = [
 	{
 		firstName: "Martin",
 		lastName: "Orodruin"
-		
-
-"Rose", "Martin", "Greg", "Mary"]
+	},
+	{
+		firstName: "Greg",
+		lastName: "Killgrew"
+	},
+	{
+		firstName: "Mary",
+		lastName: "Thomas"
+	}
+]
 
 // Blank string
 const team = ""
@@ -73,5 +80,5 @@ Teammate: Mary
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODYwODA4Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODk1ODY5OTQ0LDczMDk5ODExNl19
 -->
