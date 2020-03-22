@@ -113,13 +113,23 @@ const makeSchedule = () => {
 		}
 		{
 			firstName: "Lorena",
-			lastName: "Rodriguez",
+			lastName: "Smith",
 			appointment: "2:20"
 		}
 	]
+
+	// This is the variable you will append to with +=
+	const schedule = ""
+
+	// Write your for..of loop below this comment
+	
+	
+	// Write your for..of loop above this comment
+	
+	return schedule
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDEwNjQ4OTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTAwOTY0NDYzLDczMDk5ODExNl19
 -->
