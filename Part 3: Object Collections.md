@@ -95,7 +95,8 @@ Patient John Beury has an appointment at 1:20
 
 ```js
 const makeSchedule = () => {
-	const patients = [
+    // DO NOT MODIFY THIS DATA. Look below for where to write your code.
+	const patientsArray = [
 		{
 			firstName: "MaryBeth",
 			lastName: "Rodriguez",
@@ -110,7 +111,7 @@ const makeSchedule = () => {
 			firstName: "Calvin",
 			lastName: "Murray",
 			appointment: "10:55"
-		}
+		},
 		{
 			firstName: "Lorena",
 			lastName: "Smith",
@@ -124,6 +125,8 @@ const makeSchedule = () => {
 	// Write your for..of loop below this comment
 	
 	
+	
+	
 	// Write your for..of loop above this comment
 	
 	return schedule
@@ -131,5 +134,6 @@ const makeSchedule = () => {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwOTY0NDYzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTczMjIwNzgxOCw1MDA5NjQ0NjMsNzMwOT
+k4MTE2XX0=
 -->
