@@ -2,7 +2,7 @@ Introduction to array of objects
 
 ## Object Collections
 
-If previous work in the Foundations Course, you learned about arrays and iteration.
+If previous work in the Foundations Course, you learned how to store a collection of related data in an array and how to use iteration to do something with everything in the array.
 
 ```js
 const names = ["Jameka", "Rose", "Martin", "Greg", "Mary"]
@@ -15,5 +15,5 @@ for (const name of names) {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDc1ODg4OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NjU4OTEzMSw3MzA5OTgxMTZdfQ==
 -->
