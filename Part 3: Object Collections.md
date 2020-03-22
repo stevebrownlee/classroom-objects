@@ -99,11 +99,27 @@ const makeSchedule = () => {
 		{
 			firstName: "MaryBeth",
 			lastName: "Rodriguez",
+			appointment: "8:45"
+		},
+		{
+			firstName: "Chase",
+			lastName: "Freely",
+			appointment: "9:15"
+		},
+		{
+			firstName: "Calvin",
+			lastName: "Murray",
+			appointment: "10:55"
+		}
+		{
+			firstName: "Lorena",
+			lastName: "Rodriguez",
+			appointment: "2:20"
 		}
 	]
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTE4NzAzMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDEwNjQ4OTgsNzMwOTk4MTE2XX0=
 -->
