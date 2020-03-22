@@ -120,7 +120,7 @@ const makeSchedule = () => {
 	]
 
 	// This is the variable you will append to with +=
-	const schedule = ""
+	let schedule = ""
 
 	// Write your for..of loop below this comment
 	
@@ -131,9 +131,15 @@ const makeSchedule = () => {
 	
 	return schedule
 }
+
+
+// If you want to check the format of your string, you can click the "Run >" 
+// button above and see your string in the console window below
+const output = makeSchedule()
+console.log(output)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjIwNzgxOCw1MDA5NjQ0NjMsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY5MzI5NDU0MiwxNzMyMjA3ODE4LDUwMD
+k2NDQ2Myw3MzA5OTgxMTZdfQ==
 -->
