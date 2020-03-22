@@ -7,7 +7,7 @@ If previous work in the Foundations Course, you learned how to store a collectio
 Example, an array of your teammates's names can be joined together using a `for..of` loop, which iterates the array.
 
 ```js
-// Array of string
+// Array of strings
 const names = ["Jameka", "Rose", "Martin", "Greg", "Mary"]
 
 // Blank string
@@ -32,5 +32,5 @@ Teammate: Mary
 
 In this exercise, you will be working with an array of objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMTc5NDQwLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTc3MjI4MTA0Myw3MzA5OTgxMTZdfQ==
 -->
