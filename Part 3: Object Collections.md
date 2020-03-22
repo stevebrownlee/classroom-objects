@@ -39,8 +39,18 @@ Using the same kind of logic that was in the example above, you can replace the 
 const names = [
 	{
 		firstName: "Jameka",
-		lastName: "
-	}, "Rose", "Martin", "Greg", "Mary"]
+		lastName: "Williams"
+	},
+	{
+		firstName: "Rose",
+		lastName: "McCallister",
+	},
+	{
+		firstName: "Martin",
+		lastName: "Orodruin"
+		
+
+"Rose", "Martin", "Greg", "Mary"]
 
 // Blank string
 const team = ""
@@ -63,5 +73,5 @@ Teammate: Mary
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1MTU2MjMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQyODYwODA4Nyw3MzA5OTgxMTZdfQ==
 -->
