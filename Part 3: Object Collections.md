@@ -36,7 +36,7 @@ Using the same kind of logic that was in the example above, you can replace the 
 
 ```js
 // Array of objects
-const names = [
+const teammateArray = [
 	{
 		firstName: "Jameka",
 		lastName: "Williams"
@@ -63,16 +63,16 @@ const names = [
 const team = ""
 
 // Iterate teammate name array
-for (const name of names) {
-	// Append to the team variable's value
+for (const teammateObject of teammateArray) {
+	// Append to the team variable's value. Use dot notation to access properties
 	team += `
-	Teammate: ${name}`
+	Teammate: ${teammateObject.firstName} ${teammateObject.lastName}`
 }
 
 console.log(team)
 /* 
-Teammate: Jameka
-Teammate: Rose
+Teammate: Jameka Williams
+Teammate: Rose McCallister
 Teammate: Martin
 Teammate: Greg
 Teammate: Mary
@@ -80,5 +80,5 @@ Teammate: Mary
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1ODY5OTQ0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg5NzcxMTg2MCw3MzA5OTgxMTZdfQ==
 -->
