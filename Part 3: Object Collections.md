@@ -21,7 +21,7 @@ for (const name of names) {
 }
 
 console.log(team)
-/*
+/* 
 Teammate: Jameka
 Teammate: Rose
 Teammate: Martin
@@ -30,7 +30,38 @@ Teammate: Mary
 */
 ```
 
-In this exercise, you will be working with an array of objects.
+In this exercise, you will be working with an array of objects. 
+
+Using the same kind of logic that was in the example above, you can replace the string values in the array with objects that represent each teammate.
+
+```js
+// Array of strings
+const names = [
+	{
+		firstName: "Jameka",
+		lastName: "
+	}, "Rose", "Martin", "Greg", "Mary"]
+
+// Blank string
+const team = ""
+
+// Iterate teammate name array
+for (const name of names) {
+	// Append to the team variable's value
+	team += `
+	Teammate: ${name}`
+}
+
+console.log(team)
+/* 
+Teammate: Jameka
+Teammate: Rose
+Teammate: Martin
+Teammate: Greg
+Teammate: Mary
+*/
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjI4MTA0Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4NDQ1MTU2MjMsNzMwOTk4MTE2XX0=
 -->
