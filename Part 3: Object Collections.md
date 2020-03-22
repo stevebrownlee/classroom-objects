@@ -64,7 +64,9 @@ const team = ""
 
 // Iterate teammate name array
 for (const teammateObject of teammateArray) {
-	// Append to the team variable's value. Use dot notation to access properties
+
+	// Append to the team variable's value.
+	// Use dot notation to access properties on objects.
 	team += `
 	Teammate: ${teammateObject.firstName} ${teammateObject.lastName}`
 }
@@ -73,12 +75,12 @@ console.log(team)
 /* 
 Teammate: Jameka Williams
 Teammate: Rose McCallister
-Teammate: Martin
-Teammate: Greg
-Teammate: Mary
+Teammate: Martin Orodruin
+Teammate: Greg Killgrew
+Teammate: Mary Thomas
 */
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzcxMTg2MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTc5Mjk1NTkxOCw3MzA5OTgxMTZdfQ==
 -->
