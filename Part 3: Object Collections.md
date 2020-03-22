@@ -9,14 +9,21 @@ const names = ["Jameka", "Rose", "Martin", "Greg", "Mary"]
 const team = ""
 
 for (const name of names) {
-	team += `Teammate: ${name}`
+	team += `
+	Teammate: ${name}`
 }
 
 console.log(team)
-// Teammate Jameka Teammate Rose Teammate Martin Teammate Greg Teammate Mary
+/*
+Teammate: Jameka
+Teammate: Rose
+Teammate: Martin
+Teammate: Greg
+Teammate: Mary
+*/
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA1NTAyMjEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMDUzMjcyMDUsNzMwOTk4MTE2XX0=
 -->
