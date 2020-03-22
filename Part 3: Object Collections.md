@@ -85,12 +85,12 @@ Teammate: Mary Thomas
 
 The office manager of a doctor's office wants to provide a list each day that shows the name of each patient, and the time of their appointment. An array of objects is provided with some same patients represented an objects. Write a `for..of` loop that iterates the objects in the array, and then use dot notation to append the patient's full name, and the time of their appointment to the string value of the `schedule` variable.
 
-#### Example output
+#### Example output (your will look different because the data is different)
 
-Patient Michael Youncy has an appointment at 9:30
-Patient Michael Youncy has an appointment at 10:15
-Patient Michael Youncy has an appointment at 9:30
-Patient Michael Youncy has an appointment at 9:30
+Patient Nancy Johnson has an appointment at 9:30
+Patient Clarrissa Ford has an appointment at 10:15
+Patient Abigail Debrowski has an appointment at 11:00
+Patient John Beury has an appointment at 1:20
 
 
 ```js
@@ -98,5 +98,5 @@ const makechedule
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzQ5NzEwOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzMzMjkxNTUxLDczMDk5ODExNl19
 -->
