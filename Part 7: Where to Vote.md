@@ -11,7 +11,11 @@ In the starter code provided, add a new property to the booth object after it is
 
 ### Step 2
 
-Use string interpolation
+Use string interpolation to return the following string from the function. Remember to use the backticks and `${}` to inject variables into the string.
+
+"Abigail Brown manages the Commonwealth Community Center at 70 Main Street in Nashville, TN"
+
+
 
 
 ```js
@@ -31,5 +35,6 @@ Use string interpolation
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2ODUzNDk2LC04MzE5MzgzMzBdfQ==
+eyJoaXN0b3J5IjpbMTEzMDUyOTE3MSw0MzY4NTM0OTYsLTgzMT
+kzODMzMF19
 -->
