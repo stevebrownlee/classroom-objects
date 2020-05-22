@@ -27,8 +27,10 @@ console.log(flute)
 }
 ```
 
-## Practice: 
+## Practice: Goldfish Tanks
+
+In the sample code provided, there is an object that represents a goldfish. Your job is to add a new property named `location` whose value is "Large Tank" so that you can keep track 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM2ODE1MjUsLTExMDcyNzkwNTUsOD
+eyJoaXN0b3J5IjpbLTEyODk2NTg4NTMsLTExMDcyNzkwNTUsOD
 g4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
 -->
