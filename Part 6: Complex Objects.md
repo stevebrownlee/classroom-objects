@@ -33,7 +33,12 @@ const gypsy = {
 }
 ```
 
-You have an object contained within the scope of another object.
+You have an object contained within the scope of another object. To access the `price` property for the favorite toy, you have use the dot `.` character twice.
+
+```js
+const toyPrice = gypsy.favoriteToy.price
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
+eyJoaXN0b3J5IjpbLTExNTg1Mjg4MSw4ODg2MDM3NjUsMTkwNj
+U1MDQyNl19
 -->
