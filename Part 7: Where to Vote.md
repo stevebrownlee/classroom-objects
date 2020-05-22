@@ -7,7 +7,11 @@ In this exercise, you are going to access some nested object properties, and pra
 In the starter code provided, add a new property to the booth object after it is created. Do not modify the original object. 
 
 * Property name should be `manager`
-* Property value should be "Abigail B
+* Property value should be "Abigail Brown"
+
+### Step 2
+
+Use string interpolation
 
 
 ```js
@@ -27,5 +31,5 @@ In the starter code provided, add a new property to the booth object after it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDQwNjk0NywtODMxOTM4MzMwXX0=
+eyJoaXN0b3J5IjpbNDM2ODUzNDk2LC04MzE5MzgzMzBdfQ==
 -->
