@@ -5,6 +5,7 @@ Just because you create an object that has 4 properties on it, it doesn't mean t
 Here's an example where a flute object is initially created with no owner, but after it is purchased, an owner is added.
 
 ```js
+// Create a flute object
 const flute = {
 	material: "Steel",
 	length: 15,
@@ -12,10 +13,11 @@ const flute = {
 	price: 56.39
 }
 
+// Later, add a new property
 flute.owner = "Richard Bywater"
-
 console.log(flute)
 
+// The flute object now has a new property
 {
 	material: "Steel",
 	length: 15,
@@ -27,6 +29,6 @@ console.log(flute)
 
 ## Practice: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzE4NjQwLC0xMTA3Mjc5MDU1LDg4OD
-YwMzc2NSwxOTA2NTUwNDI2XX0=
+eyJoaXN0b3J5IjpbLTE2MjM2ODE1MjUsLTExMDcyNzkwNTUsOD
+g4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
 -->
