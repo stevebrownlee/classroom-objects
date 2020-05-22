@@ -13,7 +13,7 @@
 }
 ```
 
-Display name and full address as string
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTkzODMzMF19
+eyJoaXN0b3J5IjpbLTI0ODQ5MTMxNiwtODMxOTM4MzMwXX0=
 -->
