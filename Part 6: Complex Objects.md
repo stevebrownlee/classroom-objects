@@ -1,4 +1,4 @@
-Object as a key on parent object. Explore dot notation more.
+## Complex Object
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjU1MDQyNl19
+eyJoaXN0b3J5IjpbNDU3NDczMjczLDE5MDY1NTA0MjZdfQ==
 -->
