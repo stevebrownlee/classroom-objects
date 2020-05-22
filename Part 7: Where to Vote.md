@@ -1,11 +1,18 @@
 ## Practice: Voting Booth Volunteers
 
-In this exercise, you are going to access some nested object properties, and practice adding properties. Then you will use string interpolation to display the location 
+In this exercise, you are going to access some nested object properties, and practice adding properties. Then you will use string interpolation to display the name, location, and manager of a voting booth location.
+
+### Step 1
+
+In the starter code provided, add a new property to the booth object after it is created. Do not modify the original object. 
+
+* Property name should be `manager`
+* Property value should be "Abigail B
 
 
 ```js
 {
-	title: "Commonwealth Community Center",
+	name: "Commonwealth Community Center",
 	address: {
 		street: {
 			number: 70,
@@ -20,5 +27,5 @@ In this exercise, you are going to access some nested object properties, and pra
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTY0ODkzMiwtODMxOTM4MzMwXX0=
+eyJoaXN0b3J5IjpbMTg1NDQwNjk0NywtODMxOTM4MzMwXX0=
 -->
