@@ -12,11 +12,7 @@ const flute = {
 	price: 56.39
 }
 
-const purchaseFlute = (newOwner) => {
-	flute.owner = newOwner
-}
-
-purchaseFlute("Richard Bywater")
+flute.owner = "Richard Bywater"
 
 console.log(flute)
 
@@ -24,10 +20,13 @@ console.log(flute)
 	material: "Steel",
 	length: 15,
 	manufacturer: "Bloomgarden",
-	price: 56.39
+	price: 56.39,
+	owner: "Richard Bywater"
 }
 ```
+
+## Practice: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwNjE0NjgsLTExMDcyNzkwNTUsOD
-g4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
+eyJoaXN0b3J5IjpbNjQzNzE4NjQwLC0xMTA3Mjc5MDU1LDg4OD
+YwMzc2NSwxOTA2NTUwNDI2XX0=
 -->
