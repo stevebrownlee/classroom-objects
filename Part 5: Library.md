@@ -22,16 +22,14 @@ const flower = {
 If you want to check if the ideal condition for a flower includes growing it in clay, you would write the following code.
 
 ```js
-const clayFlower = flower.species.idealCondition.clay
+console.log(flower.species.idealCondition.clay)
 
-// false
+> false
 ```
 
-## Practice: Sales Associate Email
+## Practice: Librarian and Book Author
 
-You work for a car dealership, and you want to get the email address of each sales associate. In the starter code provided, return the email address of the sales associate.
-
-
+The starter code has two functions. The `bookAuthor()` function should return the author of a book. The `checkedInBy()`  function should return which librari
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDY5OTQyMywzNDczMjQxMzNdfQ==
+eyJoaXN0b3J5IjpbNjI4OTEwNzczLDM0NzMyNDEzM119
 -->
