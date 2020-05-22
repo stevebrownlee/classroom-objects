@@ -11,8 +11,23 @@ const flute = {
 	manufacturer: "Bloomgarden",
 	price: 56.39
 }
+
+const purchaseFlute = (newOwner) => {
+	flute.owner = newOwner
+}
+
+purchaseFlute("Richard Bywater")
+
+console.log(flute)
+
+{
+	material: "Steel",
+	length: 15,
+	manufacturer: "Bloomgarden",
+	price: 56.39
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkwNDE5NzMsLTExMDcyNzkwNTUsOD
+eyJoaXN0b3J5IjpbLTE4NzMwNjE0NjgsLTExMDcyNzkwNTUsOD
 g4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
 -->
