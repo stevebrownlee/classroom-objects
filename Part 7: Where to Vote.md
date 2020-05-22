@@ -1,3 +1,8 @@
+## Practice: Voting Booth Volunteers
+
+In this exercise, you are going to access some nested object properties, and practice adding properties. Then you will use string interpolation to display the location 
+
+
 ```js
 {
 	title: "Commonwealth Community Center",
@@ -15,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODQ5MTMxNiwtODMxOTM4MzMwXX0=
+eyJoaXN0b3J5IjpbLTIxNTY0ODkzMiwtODMxOTM4MzMwXX0=
 -->
