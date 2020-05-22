@@ -17,7 +17,23 @@ const favoriteToy = {
 }
 ```
 
-You can also make the toy 
+You can also make the toy a property of the dog itself.
+
+```js
+const gypsy = {
+    name: "Gypsy",
+    age: 5,
+    breed: "Schnauzer",
+    weight: 25,
+    favoriteToy: {
+	    brand: "Hasbro",
+	    name: "Mean Kitty",
+	    price: 8.99
+	}
+}
+```
+
+You have an object contained within the scope of another object.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjI4NTU5NywxOTA2NTUwNDI2XX0=
+eyJoaXN0b3J5IjpbODg4NjAzNzY1LDE5MDY1NTA0MjZdfQ==
 -->
