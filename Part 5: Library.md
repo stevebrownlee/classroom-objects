@@ -16,7 +16,15 @@ const flower = {
 		}
 	},
 	price: 1.29,
-	
+	arrangements: ["Birthday", "Mother's Day"]
+```
+
+If you want to check if the ideal condition for a flower includes growing it in clay, you would write the following code.
+
+```js
+const clayFlower = flower.species.idealCondition.clay
+
+// false
 ```
 
 ## Practice: Sales Associate Email
@@ -25,5 +33,5 @@ You work for a car dealership, and you want to get the email address of each sal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQzOTk1ODEsMzQ3MzI0MTMzXX0=
+eyJoaXN0b3J5IjpbMTMxNDY5OTQyMywzNDczMjQxMzNdfQ==
 -->
