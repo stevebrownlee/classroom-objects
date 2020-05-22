@@ -5,8 +5,19 @@ Data structures can get even more complex when you are working with objects. Con
 ```js
 const gypsy = {
     name: "Gypsy",
-    age: 5
+    age: 5,
+    breed: "Schnauzer",
+    weight: 25
+}
+
+const favoriteToy = {
+    brand: "Hasbro",
+    name: "Mean Kitty",
+    price: 8.99
+}
 ```
+
+You can also make the toy 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2OTkyODYzLDE5MDY1NTA0MjZdfQ==
+eyJoaXN0b3J5IjpbLTQ5MjI4NTU5NywxOTA2NTUwNDI2XX0=
 -->
