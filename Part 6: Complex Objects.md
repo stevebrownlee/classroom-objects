@@ -53,18 +53,10 @@ const toyBrand = gypsy.favoriteToy.brand
 
 ## Practice: Sales Associate Email
 
-You work for a car dealership, and you want to get the email address of each sales associate. In the starter code provided
+You work for a car dealership, and you want to get the email address of each sales associate. In the starter code provided, return the email address of the sales associate.
 
-```js
-{
-	name: "Mike",
-	location: "Milwaukee",
-	contactInfo: {
-		phone: "343-343-3434",
-		
-}
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk2MDg0NzQsODg4NjAzNzY1LDE5MD
+eyJoaXN0b3J5IjpbLTExMDcyNzkwNTUsODg4NjAzNzY1LDE5MD
 Y1NTA0MjZdfQ==
 -->
