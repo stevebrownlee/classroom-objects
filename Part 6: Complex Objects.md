@@ -50,7 +50,18 @@ Again, to access the brand of the toy, you need two dots in order to get to the 
 ```js
 const toyBrand = gypsy.favoriteToy.brand
 ```
+
+## Practice: Sales Associate Email
+
+You work for a car dealerships, and the data for each sales associate follows this structure.
+
+```js
+{
+	name: "Mike",
+	location: "
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTU0NTQ0Myw4ODg2MDM3NjUsMTkwNj
+eyJoaXN0b3J5IjpbMTU1NTU5ODQ5MCw4ODg2MDM3NjUsMTkwNj
 U1MDQyNl19
 -->
