@@ -38,7 +38,19 @@ You have an object contained within the scope of another object. To access the `
 ```js
 const toyPrice = gypsy.favoriteToy.price
 ```
+
+If you want the age of the dog, you only need one dot.
+
+```js
+const dogAge = gypsy.age
+```
+
+Again, to access the brand of the toy, you need two dots in order to get to the nested object.
+
+```js
+const toyBrand = gypsy.favoriteToy.brand
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg1Mjg4MSw4ODg2MDM3NjUsMTkwNj
+eyJoaXN0b3J5IjpbMTk2MTU0NTQ0Myw4ODg2MDM3NjUsMTkwNj
 U1MDQyNl19
 -->
