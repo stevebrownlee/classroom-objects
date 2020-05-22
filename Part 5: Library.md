@@ -29,7 +29,17 @@ console.log(flower.species.idealCondition.clay)
 
 ## Practice: Librarian and Book Author
 
-The starter code has two functions. The `bookAuthor()` function should return the author of a book. The `checkedInBy()`  function should return which librari
+The starter code has two functions. The `bookAuthor()` function should return the author of a book. The `checkedInBy()`  function should return which librarian checked the book in.
+
+All you need to do is write the proper code after each `return` keyword to access the correct key on the objects.
+
+
+
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4OTEwNzczLDM0NzMyNDEzM119
+eyJoaXN0b3J5IjpbLTg1NTkyMjg0LDM0NzMyNDEzM119
 -->
