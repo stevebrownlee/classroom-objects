@@ -34,7 +34,3 @@ Use string interpolation to return the following string from the function. Remem
 ```
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDUyOTE3MSw0MzY4NTM0OTYsLTgzMT
-kzODMzMF19
--->
