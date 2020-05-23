@@ -139,7 +139,3 @@ const output = makeSchedule()
 console.log(output)
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzI5NDU0MiwxNzMyMjA3ODE4LDUwMD
-k2NDQ2Myw3MzA5OTgxMTZdfQ==
--->
