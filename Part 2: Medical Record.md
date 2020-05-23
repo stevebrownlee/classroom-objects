@@ -101,3 +101,6 @@ Patient John Beury has an appointment at 1:20
   
 
 > Note: Make sure you use \n at the end of your string templates to make each appointment on its own line
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTczOTgxNTY3XX0=
+-->
