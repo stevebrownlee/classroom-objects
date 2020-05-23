@@ -80,30 +80,15 @@ In the code above, if you look at the end of the string template, you will notic
 
 ```js
 team += `Teammate: ${teammateObject.firstName} ${teammateObject.lastName}\n`
-
-  
+```
 
 Those two characters create a new line in the string. This allows you to have the output shown above, where each teammate is on a new line instead of one, continuous string.
 
-  
-
-  
-
-## 
-
-Exercise: Doctor's Office Schedule
-
-  
+## Exercise: Doctor's Office Schedule
 
 The office manager of a doctor's office wants to provide a list each day that shows the name of each patient, and the time of their appointment. An array of objects is provided with some same patients represented an objects. Write a for..of loop that iterates the objects in the array, and then use dot notation to append the patient's full name, and the time of their appointment to the string value of the schedule variable.
 
-  
-
-#### 
-
-Example output (yours will look different because the data is different)
-
-  
+#### Example output (yours will look different because the data is different)
 
 Patient Nancy Johnson has an appointment at 9:30
 
@@ -116,6 +101,3 @@ Patient John Beury has an appointment at 1:20
   
 
 > Note: Make sure you use \n at the end of your string templates to make each appointment on its own line
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4NjMyMTk1LDczMDk5ODExNl19
--->
