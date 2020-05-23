@@ -1,17 +1,10 @@
-## 
-
-Object Collections
-
-  
+## Object Collections
 
 If previous work in the Foundations Course, you learned how to store a collection of related data in an array and how to use iteration to do something with everything in the array.
 
-  
-
 Example, an array of your teammates's names can be joined together using a for..of loop, which iterates the array.
 
-  
-
+```js
 // Array of strings
 const names = ["Jameka", "Rose", "Martin", "Greg", "Mary"]
 
@@ -31,17 +24,13 @@ Teammate: Martin
 Teammate: Greg 
 Teammate: Mary 
 */
-
-  
+```
 
 In this exercise, you will be working with an array of objects.
 
-  
-
 Using the same kind of logic that was in the example above, you can replace the string values in the array with objects that represent each teammate. It's still a collection of your teammates, but instead of simple string representations of each person, you now have object representations.
 
-  
-
+```js
 // Array of objects
 const teammateArray = [
 	{
@@ -75,25 +64,21 @@ for (const teammateObject of teammateArray) {
 	// Append to the team variable's value.
 	// Use dot notation to access properties on objects.
 	team += `Teammate: ${teammateObject.firstName} ${teammateObject.lastName}\n`
-} console.log(team) /* Teammate: Jameka Williams
+} 
+
+console.log(team) /* Teammate: Jameka Williams
 Teammate: Rose McCallister
 Teammate: Martin Orodruin
 Teammate: Greg Killgrew
 Teammate: Mary Thomas
 */
+```
 
-  
-
-#### 
-
-Line Breaks in Strings
-
-  
+#### Line Breaks in Strings
 
 In the code above, if you look at the end of the string template, you will notice two characters: a backslash and the letter n.
 
-  
-
+```js
 team += `Teammate: ${teammateObject.firstName} ${teammateObject.lastName}\n`
 
   
@@ -132,5 +117,5 @@ Patient John Beury has an appointment at 1:20
 
 > Note: Make sure you use \n at the end of your string templates to make each appointment on its own line
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMTU3MTc4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODM4NjMyMTk1LDczMDk5ODExNl19
 -->
