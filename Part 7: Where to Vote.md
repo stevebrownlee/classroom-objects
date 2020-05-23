@@ -15,6 +15,13 @@ Use string interpolation to return the following string from the function. Remem
 
 "Abigail Brown manages the Commonwealth Community Center at 70 Main Street in Nashville, TN"
 
+## Next Steps
+
+After you complete this exercise, go back to the classroom and open the Closet Inventory project to see how software developers use objects to display information in the browser.
+
+
+
+
 
 
 
@@ -34,3 +41,6 @@ Use string interpolation to return the following string from the function. Remem
 ```
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4OTk3Mzg4OF19
+-->
