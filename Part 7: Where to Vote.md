@@ -41,6 +41,3 @@ After you complete this exercise, go back to the classroom and open the Closet I
 ```
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTk3Mzg4OF19
--->
