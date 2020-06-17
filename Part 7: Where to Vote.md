@@ -40,6 +40,30 @@ After you complete this exercise, go back to the classroom and open the Closet I
 }
 ```
 
+#### Starter Code
+
+const votingBooth = () => {
+    const votingLocation = {
+    	name: "Commonwealth Community Center",
+    	address: {
+    		street: {
+    			number: 70,
+    			name: "Main Street"
+    		},
+    		city: "Nashville",
+    		state: "TN",
+    		zipCode: "37021"
+    	}
+    }
+    // Add the new property
+    votingLocation. = ""
+    
+    // Use string interpolation after the `return` keyword to produce the required string
+    return 
+}
+
+
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg4OTk3Mzg4OF19
