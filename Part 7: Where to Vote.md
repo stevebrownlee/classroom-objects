@@ -42,6 +42,7 @@ After you complete this exercise, go back to the classroom and open the Closet I
 
 #### Starter Code
 
+```
 const votingBooth = () => {
     const votingLocation = {
     	name: "Commonwealth Community Center",
@@ -61,7 +62,7 @@ const votingBooth = () => {
     // Use string interpolation after the `return` keyword to produce the required string
     return 
 }
-
+```
 
 
 
